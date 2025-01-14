@@ -4,7 +4,7 @@
     "description": "Plasma ducting, intended to make more flexible fusion power possible",
     "author": "Mad3ngineer",
     "homepage": "https://github.com/OGorbitz/shattered-planet",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "factorio_version": "2.0",
     "dependencies": [
       "base >= 2.0.26",
