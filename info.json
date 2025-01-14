@@ -1,19 +1,19 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
-  "factorio_version": "2.0",
-  "dependencies": [
-    "base"
-  ],
-  "quality_required": false,
-  "rail_bridges_required": false,
-  "space_travel_required": false,
-  "spoiling_required": false,
-  "freezing_required": false,
-  "segmented_units_required": false,
-  "expansion_shaders_required": false
-}
+    "name": "plasma-duct",
+    "title": "Plasma Duct",
+    "description": "Plasma ducting, intended to make more flexible fusion power possible",
+    "author": "OGorbitz",
+    "homepage": "https://github.com/OGorbitz/shattered-planet",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+    "dependencies": [
+      "base >= 2.0.26",
+      "space-age >= 2.0.26"
+    ],
+    "quality_required": true,
+    "space_travel_required": true,
+    "spoiling_required": true,
+    "freezing_required": true,
+    "segmented_units_required": true,
+    "expansion_shaders_required": true
+  }
