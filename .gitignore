@@ -4,3 +4,4 @@
 
 *.code-workspace
 *.zip
+.vscode/settings.json
